@@ -1,0 +1,38 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ProductImage debe incrementar el contador 1`] = `
+<div
+  className="productCard undefined"
+>
+  <span
+    className="productDescription undefined"
+  >
+    Productito
+  </span>
+  <button
+    onClick={[Function]}
+  >
+    reset
+  </button>
+  <button
+    onClick={[Function]}
+  >
+    +1
+  </button>
+  <span>
+    0
+  </span>
+</div>
+`;
+
+exports[`ProductImage debe mostrar el componente correctamente 1`] = `
+<div
+  className="productCard undefined"
+>
+  <span
+    className="productDescription undefined"
+  >
+    Productito
+  </span>
+</div>
+`;
